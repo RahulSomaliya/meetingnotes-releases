@@ -94,7 +94,7 @@ MeetingNotes never replaces itself. To update:
 3. Open the new `.dmg`, drag **MeetingNotes** onto **Applications**, and choose **Replace**.
 4. Open it. macOS may ask for **Open Anyway** again, as in the first launch; follow the same steps.
 
-Your meetings, notes, recordings, sign-in and settings stay. The permissions above should stay too, because every version is signed with the same certificate; if macOS asks again, answer as before.
+Your meetings, notes, recordings, sign-in and settings stay. The permissions above should stay too, because every version is signed with the same certificate; if macOS asks again, answer as before. One dialog does come back after every update: macOS asks whether MeetingNotes may use "MeetingNotes Safe Storage" in your keychain. Type your Mac login password and click **Always Allow** (plain **Allow** works only once, so it asks again).
 
 ## Where your data lives
 
